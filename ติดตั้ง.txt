@@ -1,0 +1,7 @@
+npm create vite@latest excel-import-system
+cd excel-import-system
+npm install
+ติดตั้ง package
+npm install axios react-toastify xlsx
+
+npm install tailwindcss @tailwindcss/vite
